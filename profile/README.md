@@ -4,7 +4,7 @@ Välkommen till kursen i statistik för medicinsk teknik!
 
 Vi är glada att kunna hälsa dig välkommen till kursen CM2018. Kursen syftar till att utöka dina kunskaper om statistiska metoder som behövs för en mängd olika problem inom biomedicinsk teknik (liksom många andra områden). Huvudfokus kommer att ligga på statistisk modellering, dvs. tekniker som försöker förutsäga värdet av en variabel baserat på värdena av vissa andra variabler.
 
-I [Syllabus] (https://www.kth.se/student/kurser/kurs/kursplan/CM2018-20212.pdf?lang=en) hittar du en sammanfattning av kursen samt kursens förväntade studieresultat.
+I [Syllabus](https://www.kth.se/student/kurser/kurs/kursplan/CM2018-20212.pdf?lang=en) hittar du en sammanfattning av kursen samt kursens förväntade studieresultat.
 
 
 
